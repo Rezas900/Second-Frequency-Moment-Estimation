@@ -36,8 +36,8 @@ The following table shows a sample result from the `zipf.1.5.txt` dataset:
 ### Installation
 
 ```bash
-git clone [URL-TO-YOUR-REPOSITORY]
-cd [REPOSITORY-NAME]
+git clone https://github.com/Rezas900/Second-Frequency-Moment-Estimation.git
+cd Second-Frequency-Moment-Estimation
 pip install -r requirements.txt
 ```
 
